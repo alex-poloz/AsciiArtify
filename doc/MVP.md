@@ -49,3 +49,6 @@ curl -F 'image=@g.png' localhost:8081/img/
 4. Зафіксуємо весь описаний процес в наглядному форматі на відео:
 
 ![MPV Demo](argocd.gif)
+
+
+![MPV Demo](https://www.youtube.com/watch?v=nImFiVBftzQ)
