@@ -51,4 +51,4 @@ curl -F 'image=@g.png' localhost:8081/img/
 ![MPV Demo](argocd.gif)
 
 
-![MPV Demo](https://www.youtube.com/watch?v=nImFiVBftzQ)
+![MPV Demo](https://youtu.be/nImFiVBftzQ)https://youtu.be/nImFiVBftzQ)
